@@ -2,6 +2,7 @@
 
 ## Project Overview
 A machine learning project to predict customer churn for a subscription-based service using advanced feature engineering and ensemble models.
+train.csv file link: https://drive.google.com/file/d/1lqmGEjxsz4aCiIS3sG9VUGdRIWE1Hrhs/view?usp=sharing
 
 ## Key Results
 - **Model Performance**: 93.25% AUC with XGBoost
